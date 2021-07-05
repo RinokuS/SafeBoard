@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/Documents/Projects/SafeBoard/TestTask_01/main.cpp
+iostream
+-
+fstream
+-
+filesystem
+-
+vector
+-
+algorithm
+-
+profile.h
+/Users/rinokus/Documents/Projects/SafeBoard/TestTask_01/profile.h
+
+/Users/rinokus/Documents/Projects/SafeBoard/TestTask_01/profile.h
+chrono
+-
+iostream
+-
+string
+-
+

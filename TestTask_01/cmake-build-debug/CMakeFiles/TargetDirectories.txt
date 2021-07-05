@@ -1,0 +1,3 @@
+/Users/rinokus/Documents/Projects/SafeBoard/TestTask_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rinokus/Documents/Projects/SafeBoard/TestTask_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rinokus/Documents/Projects/SafeBoard/TestTask_01/cmake-build-debug/CMakeFiles/TestTask_01.dir
